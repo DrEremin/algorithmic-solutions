@@ -1,6 +1,7 @@
 # Description of problem
 
-Given two sorted arrays nums1 and nums2 of size m and n respectively, return <br> the median of the two sorted arrays. <br>
+Given two sorted arrays nums1 and nums2 of size m and n respectively, return <br> 
+the median of the two sorted arrays. <br>
 
 The overall run time complexity should be O(log (m+n)). <br>
 
@@ -90,7 +91,7 @@ within the limits of the arrays sizes;
   If the total size of the arrays is odd, then the pivot element is simply <br>
   returned without further recursion.
 
-### Algorithm:Complexity
+### Complexity:
 
 - Time complexity: O(log(n+m));
 
