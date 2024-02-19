@@ -9,7 +9,7 @@ You may not alter the values in the list's nodes, only nodes themselves may be <
 
 ### Example 1:
 ![test](images/reverse_ex1.jpeg)
-> <b>Input:</b> head = [1,2,3,4,5], k = 3<br>
+> <b>Input:</b> head = [1,2,3,4,5], k = 2<br>
 <b>Output:</b> [2,1,4,3,5]
 
 ### Example2:
