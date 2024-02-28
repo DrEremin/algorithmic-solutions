@@ -32,7 +32,7 @@ merging them into one sorted list:<br>
 - k == lists.length;
 - 0 <= k <= 10<sup>4</sup>;
 - 0 <= lists[i].length <= 500;
-- -10<sup>4</sup> <= lists[i][j] <= 10<sup>4</sup>;
+- -10<sup>4</sup> <= lists[i,j] <= 10<sup>4</sup>;
 - lists[i] is sorted in ascending order;
 - the sum of lists[i].length will not exceed 10<sup>4</sup>.
 

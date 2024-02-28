@@ -17,12 +17,14 @@ You may not alter the values in the list's nodes, only nodes themselves may be <
 > <b>Input:</b> head = [1,2,3,4,5], k = 3<br>
 <b>Output:</b> [3,2,1,4,5]
 
-### Constaints
+### Constraints
 - The number of nodes in the list is n;
 - 1 <= k <= n <= 5000;
 - 0 <= Node.val <= 1000.
 
 <b>Follow-up:</b> Can you solve the problem in O(1) extra memory space?
+
+### Difficulty: hard
 
 # Description of solution
 
