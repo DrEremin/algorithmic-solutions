@@ -25,7 +25,7 @@ of the longest valid (well-formed) parentheses substring.
 - 0 <= s.length <= 3 * 10<sup>4</sup>
 - s[i] is '(', or ')'.
 
-## Difficulty: hard
+### Difficulty: hard
 
 # Description of solution
 
